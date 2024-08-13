@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"/>
+    <title>Encriptador de texto</title>
+  </head>
+  <body>
+    <div class="container_body">
+      <header class="header">
+        <div class="logo__container">
+          <a href="index.html" class="logo__link">
+            <img src="imagenes/Logo.png" alt="Logo Empresa" />
+          </a>
+        </div>
+        <nav class="nav">
+        </nav>
+      </header>
+
+      <main class="main">
+        <section class="container__form">
+          <textarea id="message" placeholder="Ingrese el texto aqui"></textarea>
+          <div id="container_warning" class="container__form_warning">
+            <span class="material-symbols-outlined">error</span>
+            <p id="warning">Solo letras minúsculas y sin tíldes</p>
+          </div>
+          <div class="container__button">
+            <button id="encriptar" class="button" onclick="accionBoton('encriptar');">Encriptar</button>
+            <button id="desencriptar" class="button" onclick="accionBoton('desencriptar');"disabled>Desencriptar</button>
+          </div>
+        </section>
+        <section class="container__right">
+          <div id="cajaResponse" hidden class="container__right__result">
+            <p id="response">-</p>
+            <div class="container__right_button">
+              <button id="copiar" class="button" onclick="copiarportapapeles('encriptar');" hidden>Copiar</button>
+            </div>
+          </div>
+          <div id="cajaNoResponse" class="container__right__noresult">
+            <img id="noresultimagen" src="imagenes/Muñeco.png" alt="No se encontro mensaje" />
+            <h1 id="nomensaje1">Ningún mensaje fue encontrado</h1>
+            <h2 id="nomensaje2">Ingresa el texto que desees encriptar o desencriptar</h2>
+          </div>
+        </section>
+      </main>
+      <footer class="footer">
+        <p>Desarrollado por Aixa Villa Peralta</p>
+    </footer>
+  </div>
+    <script src="app.js"></script>
+    
+  </body>
+</html>
