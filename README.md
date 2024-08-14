@@ -2,7 +2,7 @@
 En esta página vas a poder darle un toque de misterio a tus mensajes. Podes divertirte y enviar textos codificados a quien quieras.
 Es muy fácil de usar, solo debes seguir los pasos y listo! Interactúa en secreto con tus amigos.
 
-![image](https://github.com/user-attachments/assets/95b61690-6fb3-4333-9f21-518a314cf6ce](https://raw.githubusercontent.com/Chuunita/Encriptador/80c82350d94bb58d419ce4c877cbd4e6d0befbb1/README%20img/1.jpg)
+![image](https://raw.githubusercontent.com/Chuunita/Encriptador/80c82350d94bb58d419ce4c877cbd4e6d0befbb1/README%20img/1.jpg)
 
 
 ## ¿Cómo funciona?:
