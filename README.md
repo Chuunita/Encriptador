@@ -5,9 +5,9 @@ Es muy fácil de usar, solo debes seguir los pasos y listo! Interactúa en secre
 ![image](https://raw.githubusercontent.com/Chuunita/Encriptador/80c82350d94bb58d419ce4c877cbd4e6d0befbb1/README%20img/1.jpg)
 
 
-## ¿Cómo funciona?:
+## ¿Cómo funciona?
 
-1. #### Ingresa tu texto:
+1. #### Ingresa tu texto
    Te diriges a la caja en donde indica "Ingrese el texto aquí" y escribes lo que quieras encriptar.
 
    ![image](https://raw.githubusercontent.com/Chuunita/Encriptador/80c82350d94bb58d419ce4c877cbd4e6d0befbb1/README%20img/2.jpg)
@@ -17,7 +17,7 @@ Es muy fácil de usar, solo debes seguir los pasos y listo! Interactúa en secre
 
    ![image](https://raw.githubusercontent.com/Chuunita/Encriptador/80c82350d94bb58d419ce4c877cbd4e6d0befbb1/README%20img/3.jpg)
 
-7. #### Desencripta y copia:
+7. #### Desencripta y copia
    Utiliza los botones **"Desencriptar"** y **"Copiar"** para recuperar tu mensaje original o compartirlo.
    
    - Primero da clic en el boton **Copiar** y el texto encriptado en la parte derecha se copiara y pegara en la casilla de entrada a la izquierda para que puedes desencriptarlo.
@@ -41,7 +41,7 @@ Es muy fácil de usar, solo debes seguir los pasos y listo! Interactúa en secre
 1. Copia este repositorio:
 
 ```sh
-git clone https://github.com/Chuunita/Encriptador.git
+https://github.com/Chuunita/Encriptador.git
 ```
 2. Ejecuta el archivo index.html en tu navegador.
 
